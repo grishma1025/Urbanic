@@ -27,4 +27,27 @@ It allows users to browse products, manage their cart, and place orders through 
 
 ---
 
-## 📂 Project Structure
+## 🎯 Project Purpose
+
+This project was developed to understand and implement:
+
+- Django MVC Architecture
+- Database Models & ORM
+- Authentication System
+- Cart & Order Logic
+- Backend-Frontend Integration
+
+---
+
+## 👩‍💻 Developed By
+
+**Grishma Bhuva**
+
+---
+
+⭐ If you like this project, feel free to star the repository!
+
+
+
+
+
